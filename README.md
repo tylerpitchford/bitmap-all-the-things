@@ -65,6 +65,16 @@ It's pretty self explanitory and the default settings should be fine for most us
 
 If you launch the jar file with no command line options, the GUI will display. If, however, you supply command line options then the console application will process your commands.
 
+## Samples
+
+* [Ubuntu 14.04.02 Server (x86-64)](https://goo.gl/photos/9J6QFHvJVBVg9P8m7) - 600 megabytes
+
+* [Mint Linux 17.1 (Cinnamon 64 bit)](https://goo.gl/photos/rJyv7xDvneqhUKDu5) - 1.5 gigabytes
+
+* [CentOS 7 (x86-64; everything edition)](https://goo.gl/photos/XjZVqAGNQcCzTcFL6) - 7.6 gigabytes
+
+* [Tears of Steel – 4K DCP] (https://goo.gl/photos/GoQdnH89TxkYpP1Z8) - 16 gigabytes 
+
 ## Compiling
 
 #### Install Gradle: 
