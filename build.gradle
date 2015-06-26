@@ -1,0 +1,32 @@
+apply plugin: 'java'
+
+version = '0.0.1'
+sourceCompatibility = 1.6
+targetCompatibility = 1.6
+
+task buildFatJar(type: Jar) {
+    manifest {
+        attributes 'Implementation-Title': 'B.A.T.T. - Bitmap All The Things',
+                'Implementation-Version': version,
+                'Main-Class': 'com.warfrog.bitmapallthethings.Main'
+    }
+    baseName = project.name
+    from "COPYING"
+    from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
+    with jar
+}
+
+task sourceZip(type: Zip) {
+    from 'src'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'commons-cli:commons-cli:1.3.1',
+            'commons-io:commons-io:2.4',
+            'org.apache.commons:commons-compress:1.9',
+            'com.intellij:forms_rt:7.0.3'
+}
