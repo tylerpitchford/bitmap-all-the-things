@@ -88,3 +88,13 @@ If you launch the jar file with no command line options, the GUI will display. I
 #### Build a complete jar
 
 * `gradle buildFatJar`
+
+## FAQ
+
+#### Where's the FUSE plugin!?
+
+I've got a newborn at home and have been writing this in the whee hours of the morning, so maybe I'll get to it one of these days.
+
+#### Why didn't you use the Picasa API?
+
+Oddly enough, if you upload through the Picasa API it dings your storage limits.
