@@ -4,7 +4,7 @@
 
 B.A.T.T. converts bits into bitmaps, and bitmaps back into bits. 
 
-By default, B.A.T.T. enc any given file or directory of files into a collection of 16-megapixel bitmaps. Once converted those files can be placed on various photo hosting services (i.e. [Google Photos unlimited storage of 16-megapixel images](https://www.linkedin.com/pulse/batt-google-photos-free-unlimited-storage-all-things-tyler-pitchford)) for archival purposes. 
+By default, B.A.T.T. will encode any given file or directory into a collection of 16-megapixel bitmaps. It can also decode them back, of course. Once converted those files can be placed on various photo hosting services (i.e. [Google Photos unlimited storage of 16-megapixel images](https://www.linkedin.com/pulse/batt-google-photos-free-unlimited-storage-all-things-tyler-pitchford)) for archival purposes. 
 
 B.A.T.T. currently supports an array of options:
 
