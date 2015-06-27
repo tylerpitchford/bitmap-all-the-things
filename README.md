@@ -99,6 +99,6 @@ I've got a newborn at home and have been writing this in the whee hours of the m
 
 Oddly enough, if you upload through the Picasa API it dings your storage limits.
 
-#### How does B.A.T.T. work?
+#### How does B.A.T.T. work its magic?
 
 https://www.linkedin.com/pulse/batt-google-photos-free-unlimited-storage-all-things-tyler-pitchford
