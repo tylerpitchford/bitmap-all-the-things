@@ -40,7 +40,7 @@ usage: bitmapallthethings
  -w,--width <arg>              Set the image width (defaults to 4000)
  ```
 
-B.A.T.T also provides a graphical user interface ("GUI") to simplify usage, it calls the command line client underneath.
+B.A.T.T also provides a graphical user interface ("GUI") to simplify usage. Under the hood, the GUI executes the command line client to keep things consistent.
 
 ![B.A.T.T. GUI](https://cloud.githubusercontent.com/assets/1129965/8385583/405b46fe-1c17-11e5-8e62-a6ef6cc7cf6b.png)
 
@@ -98,3 +98,7 @@ I've got a newborn at home and have been writing this in the whee hours of the m
 #### Why didn't you use the Picasa API?
 
 Oddly enough, if you upload through the Picasa API it dings your storage limits.
+
+#### How does B.A.T.T. work?
+
+https://www.linkedin.com/pulse/batt-google-photos-free-unlimited-storage-all-things-tyler-pitchford
