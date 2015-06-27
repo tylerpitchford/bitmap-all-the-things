@@ -10,7 +10,7 @@ task buildFatJar(type: Jar) {
                 'Implementation-Version': version,
                 'Main-Class': 'com.warfrog.bitmapallthethings.Main'
     }
-    baseName = project.name
+    baseName = 'bitmap-all-the-things'
     from "COPYING"
     from { configurations.compile.collect { it.isDirectory() ? it : zipTree(it) } }
     with jar
