@@ -49,7 +49,7 @@ B.A.T.T also provides a graphical user interface ("GUI") to simplify usage. Unde
 #### Install Java: 
 
 * [Oracle Java](http://www.java.com/en/download/); or
-* [OpenJDK] (http://openjdk.java.net/)
+* [OpenJDK](http://openjdk.java.net/)
 
 #### Install Rar:
 
@@ -73,7 +73,7 @@ If you launch the jar file with no command line options, the GUI will display. I
 
 * [CentOS 7 (x86-64; everything edition)](https://goo.gl/photos/XjZVqAGNQcCzTcFL6) - 7.6 gigabytes
 
-* [Tears of Steel – 4K DCP] (https://goo.gl/photos/GoQdnH89TxkYpP1Z8) - 16 gigabytes 
+* [Tears of Steel – 4K DCP](https://goo.gl/photos/GoQdnH89TxkYpP1Z8) - 16 gigabytes 
 
 ## Compiling
 
@@ -99,6 +99,4 @@ I've got a newborn at home and have been writing this in the whee hours of the m
 
 Oddly enough, if you upload through the Picasa API it dings your storage limits.
 
-#### How does B.A.T.T. work its magic?
-
-https://www.linkedin.com/pulse/batt-google-photos-free-unlimited-storage-all-things-tyler-pitchford
+#### [How does B.A.T.T. work its magic?](https://www.linkedin.com/pulse/batt-google-photos-free-unlimited-storage-all-things-tyler-pitchford)
